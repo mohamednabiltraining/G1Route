@@ -15,10 +15,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <activity android:name=".ChatActivity">
-        </activity>
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".Calculator" />
+        <activity android:name=".WhatsAppContactsList"></activity>
     </application>
 
 </manifest>
